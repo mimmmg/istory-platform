@@ -6,3 +6,4 @@
 **/terraform.tfstate*
 **/.terraform.lock.hcl
 **/create-secret.sh
+overlay/aws-prod/argocd-linux-amd64
